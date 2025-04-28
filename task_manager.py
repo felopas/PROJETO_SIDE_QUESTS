@@ -60,4 +60,4 @@ def remover_tarefa(tarefas):
             print('Número de tarefa inválido.')
     except ValueError:
         print('Entrada inválida. Por favor, insira um número.')
-    input('Pressione Enter para voltar ao menu principal...')
+    input('Pressione Enter para voltar ao menu principal...') 
